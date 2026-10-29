@@ -4,6 +4,10 @@
 
 ![Pollinator Waterer](pollinator-waterer.png)
 
+All sorts of bugs that are important to the ecosystem can use this to get water. Water is important to pollinators when it is dry, and this helps them find it right next to your plants.
+
+Bees butterflies and other pollinators carry pollen from flower to flower which helps plants make fruit and seeds. When water is close by they don't have to fly far for a drink.
+
 ## Printed with PHA 🌱
 
 **What is PHA?** PHA is a plastic made by tiny microbes! They munch on plant sugars and oils and store the PHA inside their bodies, kind of like how we store energy.
